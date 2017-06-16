@@ -1,0 +1,9 @@
+c:\users\vitalik\documents\visual studio 2017\Projects\CSTheFifthLab\CSTheFifthLab\bin\Debug\netcoreapp1.1\CSTheFifthLab.deps.json
+c:\users\vitalik\documents\visual studio 2017\Projects\CSTheFifthLab\CSTheFifthLab\bin\Debug\netcoreapp1.1\CSTheFifthLab.runtimeconfig.json
+c:\users\vitalik\documents\visual studio 2017\Projects\CSTheFifthLab\CSTheFifthLab\bin\Debug\netcoreapp1.1\CSTheFifthLab.runtimeconfig.dev.json
+c:\users\vitalik\documents\visual studio 2017\Projects\CSTheFifthLab\CSTheFifthLab\bin\Debug\netcoreapp1.1\CSTheFifthLab.dll
+c:\users\vitalik\documents\visual studio 2017\Projects\CSTheFifthLab\CSTheFifthLab\bin\Debug\netcoreapp1.1\CSTheFifthLab.pdb
+c:\users\vitalik\documents\visual studio 2017\Projects\CSTheFifthLab\CSTheFifthLab\obj\Debug\netcoreapp1.1\CSTheFifthLab.csprojResolveAssemblyReference.cache
+c:\users\vitalik\documents\visual studio 2017\Projects\CSTheFifthLab\CSTheFifthLab\obj\Debug\netcoreapp1.1\CSTheFifthLab.AssemblyInfo.cs
+c:\users\vitalik\documents\visual studio 2017\Projects\CSTheFifthLab\CSTheFifthLab\obj\Debug\netcoreapp1.1\CSTheFifthLab.dll
+c:\users\vitalik\documents\visual studio 2017\Projects\CSTheFifthLab\CSTheFifthLab\obj\Debug\netcoreapp1.1\CSTheFifthLab.pdb

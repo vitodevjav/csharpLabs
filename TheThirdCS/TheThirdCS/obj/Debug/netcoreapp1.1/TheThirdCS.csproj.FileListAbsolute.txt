@@ -1,0 +1,18 @@
+c:\users\vitalik\documents\visual studio 2017\Projects\TheThirdCS\TheThirdCS\bin\Debug\netcoreapp1.1\TheThirdCS.deps.json
+c:\users\vitalik\documents\visual studio 2017\Projects\TheThirdCS\TheThirdCS\bin\Debug\netcoreapp1.1\TheThirdCS.runtimeconfig.json
+c:\users\vitalik\documents\visual studio 2017\Projects\TheThirdCS\TheThirdCS\bin\Debug\netcoreapp1.1\TheThirdCS.runtimeconfig.dev.json
+c:\users\vitalik\documents\visual studio 2017\Projects\TheThirdCS\TheThirdCS\bin\Debug\netcoreapp1.1\TheThirdCS.dll
+c:\users\vitalik\documents\visual studio 2017\Projects\TheThirdCS\TheThirdCS\bin\Debug\netcoreapp1.1\TheThirdCS.pdb
+c:\users\vitalik\documents\visual studio 2017\Projects\TheThirdCS\TheThirdCS\obj\Debug\netcoreapp1.1\TheThirdCS.csprojResolveAssemblyReference.cache
+c:\users\vitalik\documents\visual studio 2017\Projects\TheThirdCS\TheThirdCS\obj\Debug\netcoreapp1.1\TheThirdCS.AssemblyInfo.cs
+c:\users\vitalik\documents\visual studio 2017\Projects\TheThirdCS\TheThirdCS\obj\Debug\netcoreapp1.1\TheThirdCS.dll
+c:\users\vitalik\documents\visual studio 2017\Projects\TheThirdCS\TheThirdCS\obj\Debug\netcoreapp1.1\TheThirdCS.pdb
+C:\WorkSpace\Study\2course\winAPI labs\TheThirdCS\TheThirdCS\bin\Debug\netcoreapp1.1\TheThirdCS.deps.json
+C:\WorkSpace\Study\2course\winAPI labs\TheThirdCS\TheThirdCS\bin\Debug\netcoreapp1.1\TheThirdCS.runtimeconfig.json
+C:\WorkSpace\Study\2course\winAPI labs\TheThirdCS\TheThirdCS\bin\Debug\netcoreapp1.1\TheThirdCS.runtimeconfig.dev.json
+C:\WorkSpace\Study\2course\winAPI labs\TheThirdCS\TheThirdCS\bin\Debug\netcoreapp1.1\TheThirdCS.dll
+C:\WorkSpace\Study\2course\winAPI labs\TheThirdCS\TheThirdCS\bin\Debug\netcoreapp1.1\TheThirdCS.pdb
+C:\WorkSpace\Study\2course\winAPI labs\TheThirdCS\TheThirdCS\obj\Debug\netcoreapp1.1\TheThirdCS.csprojResolveAssemblyReference.cache
+C:\WorkSpace\Study\2course\winAPI labs\TheThirdCS\TheThirdCS\obj\Debug\netcoreapp1.1\TheThirdCS.AssemblyInfo.cs
+C:\WorkSpace\Study\2course\winAPI labs\TheThirdCS\TheThirdCS\obj\Debug\netcoreapp1.1\TheThirdCS.dll
+C:\WorkSpace\Study\2course\winAPI labs\TheThirdCS\TheThirdCS\obj\Debug\netcoreapp1.1\TheThirdCS.pdb
